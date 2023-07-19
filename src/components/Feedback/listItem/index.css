@@ -1,0 +1,13 @@
+.emoji-card0 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 30px;
+}
+.emoji {
+  height: 70px;
+}
+.list-item{
+    list-style-type: none;
+}
